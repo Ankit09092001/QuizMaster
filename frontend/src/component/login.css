@@ -1,0 +1,51 @@
+/* .loginForm{
+   width: 100w;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   align-items: center;
+  justify-content: center;
+  
+}
+
+.homebutton{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   padding: 20% 30%;
+}
+a{
+  text-decoration: none;
+}
+.homepage{
+  display: flex;
+  flex-direction: column;
+  
+}
+.txtcolor{
+  color: black;
+}
+.heading{
+  margin: auto;
+}
+button{
+  padding: 10px 20px;
+  border-radius: 20px;
+} */
+
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+
+@media only screen and (min-width: 800px) {
+    .details{
+        padding-top: 200px;
+          
+       } 
+  }
